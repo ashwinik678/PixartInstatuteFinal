@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_course"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Course" />
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Blog" />
+        <item
+            android:id="@+id/nav_placement"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Placement" />
+        <item
+            android:id="@+id/nav_studentWork"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Student Work" />
+        <item
+            android:id="@+id/nav_inquiry"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Inquiry" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Notification" />
+    </group>
+
+    <item android:title="Pixart Multimedia">
+        <menu>
+            <item
+                android:id="@+id/nav_whypixart"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Why Pixart" />
+            <item
+                android:id="@+id/nav_contactUs"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact US" />
+            <item
+                android:id="@+id/nav_aboutUS"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About US" />
+        </menu>
+    </item>
+
+    <item android:title="Pixart Multimedia">
+        <menu>
+            <item
+                android:id="@+id/nav_shareApp"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rateApp"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Rate App" />
+        </menu>
+    </item>
+
+</menu>

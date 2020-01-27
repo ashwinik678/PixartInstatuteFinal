@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610088042170",
+    "firebase_url": "https://pixart-institute.firebaseio.com",
+    "project_id": "pixart-institute",
+    "storage_bucket": "pixart-institute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610088042170:android:8b47cdfd33aa20ad16cc83",
+        "android_client_info": {
+          "package_name": "com.example.pixartinstitute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610088042170-6uvnaccoma4sa1bnq12ri4sqe5uf1s0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixartinstitute",
+            "certificate_hash": "d42e8d3d657e65b2871c8d1710168001b27a4f8c"
+          }
+        },
+        {
+          "client_id": "610088042170-f9205kivo34arnvrf7q18o5a85dqjqjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6I8OQNO4zDLLQz5RDXdGRqHlUbe2sEd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610088042170-f9205kivo34arnvrf7q18o5a85dqjqjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

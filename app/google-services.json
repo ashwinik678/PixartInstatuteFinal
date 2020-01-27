@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297565810032",
+    "firebase_url": "https://pixartinstatutefinal.firebaseio.com",
+    "project_id": "pixartinstatutefinal",
+    "storage_bucket": "pixartinstatutefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297565810032:android:b24580f542fd830cff73b5",
+        "android_client_info": {
+          "package_name": "com.example.pixartinstatutefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297565810032-utd2esgelg2njso2vcfnltb3hkskj739.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixartinstatutefinal",
+            "certificate_hash": "c5fa6983d8418bced6241ce072f7bdeabef6e4fa"
+          }
+        },
+        {
+          "client_id": "297565810032-ukh2ln5ob88ouggspt01j76q9l2tmt71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDEswm4-YMbZEChxJNKZX4pTgIQCambk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297565810032-ukh2ln5ob88ouggspt01j76q9l2tmt71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

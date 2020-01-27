@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pixart Institute</string>
+
+    <string name="slide_1_title">Illustrator</string>
+    <string name="slide_1_desc">The industry-standard vector graphics app to create logos, icons, drawings, typography and illustrations for print, web, video and mobile.</string>
+
+
+    <string name="slide_2_title">Adobe Photoshop</string>
+    <string name="slide_2_desc">Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.</string>
+
+
+    <string name="slide_3_title">Adobe Premiere Pro</string>
+    <string name="slide_3_desc">Turn raw footage into flawless productions with the industry-leading video editing software.</string>
+
+    <string name="my_preference">"com.abc.mySelf.demo"</string>
+    <string name="my_preference_key">"com.abc.mySelf.demo.MyPrefKey"</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

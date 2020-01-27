@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pixart Admin Panel</string>
+
+    <string-array name="softwareName">
+        <item>Photoshop</item>
+        <item>Illustrator</item>
+        <item>Coredraw</item>
+        <item>InDesign</item>
+        <item>PremierePro</item>
+        <item>AfterEffect</item>
+        <item>Maya</item>
+        <item>AutoDesk</item>
+        <item>K3D</item>
+        <item>MovieMaker</item>
+        <item>Cinema4D</item>
+    </string-array>
+
+</resources>
